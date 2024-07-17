@@ -1,0 +1,41 @@
+{
+  "modelName": "texture",
+  "name": "Flying Squirrel(1)",
+  "identifier": "texture:209288-f4c4d35d-a2fb-4a2f-b673-c3b6e91ec383",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "c6cdb5dc71fb399556d191b18080f349",
+  "assetLocator": "textures/Flying Squirrel(1).png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "exportConfigurations": [
+    "textureExportConfig:209414-f4c4d35d-a2fb-4a2f-b673-c3b6e91ec383",
+    "textureExportConfig:209542-f4c4d35d-a2fb-4a2f-b673-c3b6e91ec383",
+    "textureExportConfig:209676-f4c4d35d-a2fb-4a2f-b673-c3b6e91ec383"
+  ],
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 340,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 402,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "c6cdb5dc71fb399556d191b18080f349",
+      "colorCount": 4746,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 3.110932717995164,
+      "pixelsHigh": 340,
+      "pixelsWide": 402
+    }
+  ]
+}

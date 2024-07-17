@@ -1,0 +1,41 @@
+{
+  "modelName": "texture",
+  "name": "Tree(1)",
+  "identifier": "texture:209292-f4c4d35d-a2fb-4a2f-b673-c3b6e91ec383",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "a633f37d2b00d9aa3bea70b81b747188",
+  "assetLocator": "textures/Tree(1).png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "exportConfigurations": [
+    "textureExportConfig:209410-f4c4d35d-a2fb-4a2f-b673-c3b6e91ec383",
+    "textureExportConfig:209538-f4c4d35d-a2fb-4a2f-b673-c3b6e91ec383",
+    "textureExportConfig:209672-f4c4d35d-a2fb-4a2f-b673-c3b6e91ec383"
+  ],
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 412,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 605,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "a633f37d2b00d9aa3bea70b81b747188",
+      "colorCount": 24819,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 5.224353797048558,
+      "pixelsHigh": 412,
+      "pixelsWide": 605
+    }
+  ]
+}
